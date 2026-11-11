@@ -1,0 +1,23 @@
+groups/D31.txt none N=62 A=5 T=4 nodes=2803 file=groups/D31.txt
+groups/D32.txt none N=64 A=5 T=4 nodes=1908 file=groups/D32.txt
+groups/D8xZ4.txt none N=64 A=5 T=4 nodes=1 file=groups/D8xZ4.txt
+groups/Dic16.txt none N=64 A=5 T=4 nodes=9487489 file=groups/Dic16.txt
+groups/Dic2xZ8.txt none N=64 A=5 T=4 nodes=3822704 file=groups/Dic2xZ8.txt
+groups/Dic4xZ4.txt none N=64 A=5 T=4 nodes=3501431 file=groups/Dic4xZ4.txt
+groups/Z16sZ4r11.txt none N=64 A=5 T=4 nodes=23269582 file=groups/Z16sZ4r11.txt
+groups/Z16sZ4r13.txt none N=64 A=5 T=4 nodes=35717811 file=groups/Z16sZ4r13.txt
+groups/Z16sZ4r15.txt none N=64 A=5 T=4 nodes=10664172 file=groups/Z16sZ4r15.txt
+groups/Z16sZ4r3.txt none N=64 A=5 T=4 nodes=23269582 file=groups/Z16sZ4r3.txt
+groups/Z16sZ4r5.txt none N=64 A=5 T=4 nodes=35717811 file=groups/Z16sZ4r5.txt
+groups/Z16sZ4r7.txt none N=64 A=5 T=4 nodes=19733126 file=groups/Z16sZ4r7.txt
+groups/Z16sZ4r9.txt none N=64 A=5 T=4 nodes=38553178 file=groups/Z16sZ4r9.txt
+groups/Z21sZ3r16.txt timeout groups/Z21sZ3r16.txt
+groups/Z21sZ3r4.txt timeout groups/Z21sZ3r4.txt
+groups/Z2xZ2xZ16.txt none N=64 A=5 T=4 nodes=1 file=groups/Z2xZ2xZ16.txt
+groups/Z2xZ31.txt none N=62 A=5 T=4 nodes=19348893 file=groups/Z2xZ31.txt
+groups/Z2xZ32.txt none N=64 A=5 T=4 nodes=18820049 file=groups/Z2xZ32.txt
+groups/Z31sZ2r30.txt none N=62 A=5 T=4 nodes=2803 file=groups/Z31sZ2r30.txt
+groups/Z32sZ2r15.txt none N=64 A=5 T=4 nodes=91603 file=groups/Z32sZ2r15.txt
+groups/Z32sZ2r17.txt none N=64 A=5 T=4 nodes=17708669 file=groups/Z32sZ2r17.txt
+groups/Z32sZ2r31.txt none N=64 A=5 T=4 nodes=1908 file=groups/Z32sZ2r31.txt
+groups/Z3xZ21.txt none N=63 A=5 T=4 nodes=108933143 file=groups/Z3xZ21.txt

@@ -1,0 +1,26 @@
+groups/D15.txt none N=30 A=6 T=3 nodes=34 file=groups/D15.txt
+groups/D16.txt none N=32 A=6 T=3 nodes=30 file=groups/D16.txt
+groups/D5xZ3.txt none N=30 A=6 T=3 nodes=388 file=groups/D5xZ3.txt
+groups/D8xZ2.txt none N=32 A=6 T=3 nodes=1 file=groups/D8xZ2.txt
+groups/Dic2xZ4.txt none N=32 A=6 T=3 nodes=301 file=groups/Dic2xZ4.txt
+groups/Dic4xZ2.txt none N=32 A=6 T=3 nodes=564 file=groups/Dic4xZ2.txt
+groups/Dic8.txt none N=32 A=6 T=3 nodes=1534 file=groups/Dic8.txt
+groups/Z15sZ2r11.txt none N=30 A=6 T=3 nodes=898 file=groups/Z15sZ2r11.txt
+groups/Z15sZ2r14.txt none N=30 A=6 T=3 nodes=34 file=groups/Z15sZ2r14.txt
+groups/Z15sZ2r4.txt none N=30 A=6 T=3 nodes=396 file=groups/Z15sZ2r4.txt
+groups/Z16sZ2r15.txt none N=32 A=6 T=3 nodes=30 file=groups/Z16sZ2r15.txt
+groups/Z16sZ2r7.txt none N=32 A=6 T=3 nodes=156 file=groups/Z16sZ2r7.txt
+groups/Z16sZ2r9.txt none N=32 A=6 T=3 nodes=1533 file=groups/Z16sZ2r9.txt
+groups/Z2xZ15.txt none N=30 A=6 T=3 nodes=3183 file=groups/Z2xZ15.txt
+groups/Z2xZ16.txt none N=32 A=6 T=3 nodes=1914 file=groups/Z2xZ16.txt
+groups/Z2xZ2xZ8.txt none N=32 A=6 T=3 nodes=1 file=groups/Z2xZ2xZ8.txt
+groups/Z3sZ10r2.txt none N=30 A=6 T=3 nodes=945 file=groups/Z3sZ10r2.txt
+groups/Z3xZ10.txt none N=30 A=6 T=3 nodes=4183 file=groups/Z3xZ10.txt
+groups/Z4sZ8r3.txt none N=32 A=6 T=3 nodes=1989 file=groups/Z4sZ8r3.txt
+groups/Z4xZ8.txt none N=32 A=6 T=3 nodes=2478 file=groups/Z4xZ8.txt
+groups/Z5sZ6r4.txt none N=30 A=6 T=3 nodes=407 file=groups/Z5sZ6r4.txt
+groups/Z5xZ6.txt none N=30 A=6 T=3 nodes=3545 file=groups/Z5xZ6.txt
+groups/Z8sZ4r3.txt none N=32 A=6 T=3 nodes=591 file=groups/Z8sZ4r3.txt
+groups/Z8sZ4r5.txt none N=32 A=6 T=3 nodes=1253 file=groups/Z8sZ4r5.txt
+groups/Z8sZ4r7.txt none N=32 A=6 T=3 nodes=698 file=groups/Z8sZ4r7.txt
+DONE

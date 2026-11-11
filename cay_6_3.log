@@ -1,0 +1,43 @@
+G=groups/D15.txt N=30 A=6 T=3 cost=5 S=14 13 12 4 5
+G=groups/D15.txt N=30 A=6 T=3 cost=4 S=14 11 10 6
+G=groups/D15.txt N=30 A=6 T=3 cost=4 S=14 11 10 6
+G=groups/Z15sZ2r11.txt N=30 A=6 T=3 cost=4 S=13 12 5 17 18 22
+G=groups/Z15sZ2r11.txt N=30 A=6 T=3 cost=3 S=12 11 10 8 27 21
+G=groups/Z15sZ2r11.txt N=30 A=6 T=3 cost=4 S=13 12 9 8 19 23 24
+G=groups/Z15sZ2r14.txt N=30 A=6 T=3 cost=5 S=14 13 12 4 5
+G=groups/Z15sZ2r14.txt N=30 A=6 T=3 cost=4 S=14 11 10 6
+G=groups/Z15sZ2r14.txt N=30 A=6 T=3 cost=4 S=14 11 10 6
+G=groups/Z15sZ2r4.txt N=30 A=6 T=3 cost=3 S=10 6 16 17 28
+G=groups/Z15sZ2r4.txt N=30 A=6 T=3 cost=3 S=10 6 29 25 28
+G=groups/Z15sZ2r4.txt N=30 A=6 T=3 cost=3 S=1 12 10 16 25 23
+G=groups/Z2xZ15.txt N=30 A=6 T=3 cost=1 S=1 4 10 29 21 23
+G=groups/Z2xZ15.txt N=30 A=6 T=3 cost=1 S=1 4 10 7 18 20
+G=groups/Z2xZ15.txt N=30 A=6 T=3 cost=3 S=3 11 9 16 18 20
+G=groups/Z3xZ10.txt N=30 A=6 T=3 cost=2 S=6 20 29 13 22 21
+G=groups/Z3xZ10.txt N=30 A=6 T=3 cost=1 S=3 20 26 15 24 22
+G=groups/Z3xZ10.txt N=30 A=6 T=3 cost=1 S=9 20 11 26 24 17
+G=groups/Z5xZ6.txt N=30 A=6 T=3 cost=1 S=1 2 8 26 15 20
+G=groups/Z5xZ6.txt N=30 A=6 T=3 cost=2 S=4 7 10 18 13 19
+G=groups/Z5xZ6.txt N=30 A=6 T=3 cost=1 S=5 4 28 10 21 16
+G=groups/D16.txt N=32 A=6 T=3 cost=5 S=15 14 12 5 6
+G=groups/D16.txt N=32 A=6 T=3 cost=5 S=15 2 12 5 10
+G=groups/D16.txt N=32 A=6 T=3 cost=5 S=1 4 11 6 9
+G=groups/Z16sZ2r15.txt N=32 A=6 T=3 cost=5 S=15 14 12 5 6
+G=groups/Z16sZ2r15.txt N=32 A=6 T=3 cost=5 S=15 2 12 5 10
+G=groups/Z16sZ2r15.txt N=32 A=6 T=3 cost=5 S=1 4 11 6 9
+G=groups/Z16sZ2r7.txt N=32 A=6 T=3 cost=3 S=1 3 12 10 19 23
+G=groups/Z16sZ2r7.txt N=32 A=6 T=3 cost=3 S=15 2 12 5 27 31
+G=groups/Z16sZ2r7.txt N=32 A=6 T=3 cost=3 S=15 13 4 6 25 29
+G=groups/Z16sZ2r9.txt N=32 A=6 T=3 cost=4 S=3 12 5 10 20 31 29
+G=groups/Z16sZ2r9.txt N=32 A=6 T=3 cost=2 S=2 12 17 18 26 27
+G=groups/Z16sZ2r9.txt N=32 A=6 T=3 cost=2 S=4 6 18 26 25 27
+G=groups/Z2xZ16.txt N=32 A=6 T=3 cost=2 S=14 3 4 9 18 26
+G=groups/Z2xZ16.txt N=32 A=6 T=3 cost=3 S=12 10 7 31 21 26
+G=groups/Z2xZ16.txt N=32 A=6 T=3 cost=3 S=2 3 12 11 31 30 21
+G=groups/Z2xZ2xZ8.txt N=32 A=6 T=3 cost=25 S=7 2 3 11 23 18 30
+G=groups/Z2xZ2xZ8.txt N=32 A=6 T=3 cost=25 S=7 2 15 14 23 30 27
+G=groups/Z2xZ2xZ8.txt N=32 A=6 T=3 cost=25 S=2 3 15 14 31 30 27
+G=groups/Z4xZ8.txt N=32 A=6 T=3 cost=5 S=1 6 11 28 14 25 18
+G=groups/Z4xZ8.txt N=32 A=6 T=3 cost=5 S=2 8 31 30 13 22 19
+G=groups/Z4xZ8.txt N=32 A=6 T=3 cost=5 S=2 28 27 26 17 18 19
+DONE

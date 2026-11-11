@@ -1,0 +1,3 @@
+seed=1 N=40 A=4 T=4 cost=40 (recount 40) best=36
+seed=2 N=40 A=4 T=4 cost=47 (recount 47) best=42
+seed=3 N=40 A=4 T=4 cost=56 (recount 56) best=51

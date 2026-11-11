@@ -1,0 +1,4 @@
+FOUND N=28 A=6 T=3 S=3 8 10 17 12 
+FOUND N=28 A=6 T=3 S=2 24 23 8 9 
+FOUND N=28 A=6 T=3 S=1 4 22 12 15 
+N=28 A=6 T=3 nodes=3454 found=3

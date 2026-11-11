@@ -1,0 +1,5 @@
+A=8 T=3 circulant_max_N=45
+A=5 T=4 circulant_max_N=60
+A=4 T=5 circulant_max_N=64
+A=9 T=3 circulant_max_N=60
+A=6 T=4 circulant_max_N=64
